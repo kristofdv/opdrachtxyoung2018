@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualNetworkName": {
-            "value": "vnet-krdo-youngsters"
+            "value": "krdo-vnet"
         },
         "virtualNetworkResourceGroup": {
-            "value": "rg-krdo-youngsters-vnet"
+            "value": "rg-krikkedevos-vmtest2"
         },
         "subnetName": {
-            "value": "dev"
+            "value": "default"
         },
         "availabilitySetName": {
             "value": "krdo-youngsters-as"
